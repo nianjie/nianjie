@@ -2,7 +2,7 @@
 
 Here is **nj**.
 
-- 🔭 I’m currently working on Java/Kotlin, Python.
+- 🔭 I’m currently working on Java/Kotlin, Python🐍, and Ruby.
 - 🌱 I’m currently learning Container Techs, Cloud-native Developement.
 
 <div>
